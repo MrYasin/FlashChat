@@ -258,7 +258,7 @@
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WpY-IA-acB" userLabel="Compose View">
                                 <rect key="frame" x="0.0" y="728" width="375" height="50"/>
                                 <subviews>
-                                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Enter Your Message" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="W4K-YF-skl">
+                                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="Message" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="W4K-YF-skl">
                                         <rect key="frame" x="8" y="10" width="305" height="30"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits" keyboardType="emailAddress" returnKeyType="send"/>
@@ -354,8 +354,8 @@
         </scene>
     </scenes>
     <resources>
-        <image name="background" width="853.33331298828125" height="632.66668701171875"/>
-        <image name="background1" width="1200" height="795"/>
+        <image name="background" width="666.66668701171875" height="666.66668701171875"/>
+        <image name="background1" width="666.66668701171875" height="666.66668701171875"/>
     </resources>
     <inferredMetricsTieBreakers>
         <segue reference="rRW-Qd-PQi"/>
